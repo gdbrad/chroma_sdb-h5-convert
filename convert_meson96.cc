@@ -39,6 +39,8 @@ namespace Chroma::InlineMesonMatElemColorVecSuperbEnv{
       multi1d<int> mom;		        /*!< D-1 momentum of this operator */
     };
 
+    // int Ns = num_vecs -1 ; 
+
     //! Meson operator, colorstd::vector source and sink with momentum projection
     struct ValMesonElementalOperator_t : public SB::Tensor<2, SB::ComplexD> {
       int type_of_data; /*!< Flag indicating type of data (maybe trivial) */
@@ -435,40 +437,6 @@ int main(int argc, char *argv[])
   
 // HERE BE DRAGONS
 
-// <elem>
-//       <Name>PROP_MATELEM_COLORVEC</Name>
-//       <Frequency>1</Frequency>
-//       <Param>
-//         <num_vecs>10</num_vecs>
-//         <t_sources>0 3</t_sources>
-//         <decay_dir>3</decay_dir>
-//         <mass_label>U0.05</mass_label>
-//       </Param>
-//       <NamedObject>
-//         <gauge_id>default_gauge_field</gauge_id>
-//         <colorvec_id>eigeninfo_0</colorvec_id>
-//         <prop_id>prop_colorvec</prop_id>
-//         <prop_op_file>prop.sdb</prop_op_file>
-//       </NamedObject>
-//     </elem>
-
-// struct KeyMesonElementalOperator_t {
-//       int t_slice;		 /*!< Meson operator time slice */
-//       multi1d<int> displacement; /*!< Displacement dirs of right colorstd::vector */
-//       multi1d<int> mom;		 /*!< D-1 momentum of this operator */
-//     };
-
-//     //! Meson operator, colorstd::vector source and sink with momentum projection
-//     struct ValMesonElementalOperator_t : public SB::Tensor<2, SB::ComplexD> {
-//       int type_of_data; /*!< Flag indicating type of data (maybe trivial) */
-//       ValMesonElementalOperator_t(int n = 0, int type_of_data = COLORVEC_MATELEM_TYPE_GENERIC)
-// 	: SB::Tensor<2, SB::ComplexD>("ij", {n, n}, SB::OnHost, SB::Local),
-// 	  type_of_data(type_of_data)
-//       {
-//       }
-//     };
-
-
   std::cout << "creating obj"<< std::endl;
   BinaryStoreDB<SerialDBKey<InlineMesonMatElemColorVecSuperbEnv::KeyMesonElementalOperator_t>, SerialDBData<InlineMesonMatElemColorVecSuperbEnv::ValMesonElementalOperator_t>> qdp_db;
 
@@ -497,9 +465,6 @@ int main(int argc, char *argv[])
     std::cout << "\tdisplacement "<< k.key().displacement.size() << std::endl;
     std::cout << "\tmomentum     "<< k.key().mom.size() << std::endl;
 
-
-
-	
 	std::string path = "/t_slice_" + std::to_string(k.key().t_slice);
 	std::string mom = "mom_" + std::to_string(k.key().mom[0]) + "_" + std::to_string(k.key().mom[1]) + "_" + std::to_string(k.key().mom[2]);
 
@@ -520,14 +485,18 @@ int main(int argc, char *argv[])
 
 	for(int i = 0; i < num_vecs; i++){
 		for(int j = 0; j < num_vecs; j++){
-			mat(i, j) = val.data().get(SB::Coor<2UL>{i, j}).real();
+      mat(i, j) = val.data().data()[i*num_vecs+ j].real();
+
+			// mat(i, j) = val.data().get(SB::Coor<2UL>{i, j}).real();
 		}
 	}
 	h5file.write("real", mat);
 	
 	for(int i = 0; i < num_vecs; i++){
 		for(int j = 0; j < num_vecs; j++){
-			mat(i, j) = val.data().get(SB::Coor<2UL>{i, j}).imag();
+      mat(i, j) = val.data().data()[i*num_vecs+ j].imag();
+
+			// mat(i, j) = val.data().get(SB::Coor<2UL>{i, j}).imag();
 		}
 	}
 	h5file.write("imag", mat);
@@ -547,6 +516,5 @@ int main(int argc, char *argv[])
   Chroma::finalize();
   exit(0);
 }
-
 
 
