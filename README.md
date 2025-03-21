@@ -24,3 +24,8 @@ Note: Always set the following for the meson elemental conversion ``SB:Local'' n
       }
     };
 ```
+
+add this version of src/chroma/lib/meas/inline/hadron/inline_create_colorvecs_superb.cc to enable eigenvalue printing. Also add the env variable to shell script when launching eigs 
+```
+SB_LOG=1
+```

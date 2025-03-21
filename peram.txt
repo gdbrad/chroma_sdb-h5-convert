@@ -1,0 +1,7169 @@
+Key number: 0
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000493387491948785 , 0.00457371709385413 )
+Key number: 1
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0489815276160712 , -0.0404778904562333 )
+Key number: 2
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.728688635686319 , -1.98669883712602e-16 )
+Key number: 3
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.205450254872669 , 0.06051403098322 )
+Key number: 4
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0484578254804602 , 0.0423074141417017 )
+Key number: 5
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00114128170636988 , -0.00458306625289794 )
+Key number: 6
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.215750698583556 , -0.036987740470394 )
+Key number: 7
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.728448654586306 , 3.39727974484755e-17 )
+Key number: 8
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.738870992752815 , 1.13366889660516e-17 )
+Key number: 9
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.140476862478309 , 0.0175743459820861 )
+Key number: 10
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0014837838957493 , -0.00130506974822958 )
+Key number: 11
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0484578260708729 , 0.0423074148740082 )
+Key number: 12
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.136622308579518 , -0.0777194550483125 )
+Key number: 13
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.742265417365413 , -6.2429716344431e-17 )
+Key number: 14
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0489815301325737 , -0.0404778868315456 )
+Key number: 15
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00151090971481769 , 0.00268911068312564 )
+Key number: 16
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 17
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 18
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 19
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 20
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 21
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 22
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 23
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 24
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 25
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 26
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 27
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 28
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 29
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 30
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 31
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 32
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 9.53979024853125e-05 , -0.000290571851136588 )
+Key number: 33
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0949707516968095 , 0.0702857489298517 )
+Key number: 34
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00482625572392044 , 0.0297422718601041 )
+Key number: 35
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0502695811553638 , -0.0826066262725765 )
+Key number: 36
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0951382453490885 , -0.0723765563387746 )
+Key number: 37
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00140226435753826 , -0.000136081988223265 )
+Key number: 38
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0403690942319302 , -0.0391737394537826 )
+Key number: 39
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00766648319944933 , 0.0313748714439573 )
+Key number: 40
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0735653884452993 , -0.0354948569243803 )
+Key number: 41
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0184472039014308 , -0.1656528939527 )
+Key number: 42
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000377238007865761 , 8.85443454065117e-05 )
+Key number: 43
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00446372835040647 , -0.0168085158501767 )
+Key number: 44
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0100450133395091 , -0.195257122152749 )
+Key number: 45
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0748888565166238 , -0.0359945974790522 )
+Key number: 46
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00517317611224278 , 0.0168409542089526 )
+Key number: 47
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000964025247079515 , 0.000657063813193925 )
+Key number: 48
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 49
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 50
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 51
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 52
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 53
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 54
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 55
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 56
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 57
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 58
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 59
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 60
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 61
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 62
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 63
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 64
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0974674436240055 , -0.000468721620166962 )
+Key number: 65
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0980484610681533 , -0.0457599787476777 )
+Key number: 66
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000107124677354156 , -0.00268228756935302 )
+Key number: 67
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0545624563168077 , -0.11233786250735 )
+Key number: 68
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0980484624834281 , -0.0457599812780334 )
+Key number: 69
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.097454276627724 , -0.00255964118802938 )
+Key number: 70
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0551826567202009 , 0.111533178702634 )
+Key number: 71
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000187900345771926 , 0.00227550828055937 )
+Key number: 72
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000107125035126135 , 0.00268228763778403 )
+Key number: 73
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0914259965400766 , -0.00527329562648686 )
+Key number: 74
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0942518706190497 , 0.0120200359978015 )
+Key number: 75
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.052246099276593 , -0.0363260235212216 )
+Key number: 76
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0915282924259528 , 0.00895453619240559 )
+Key number: 77
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000187900334448647 , -0.0022755083612961 )
+Key number: 78
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0522460992126771 , -0.0363260222641499 )
+Key number: 79
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0943263078628957 , 0.0110804996066773 )
+Key number: 80
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 81
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 82
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 83
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 84
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 85
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 86
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 87
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 88
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 89
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 90
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 91
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 92
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 93
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 94
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 95
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 96
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0195663529491772 , 0.034012085744967 )
+Key number: 97
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0396502912476774 , -0.0599176042733489 )
+Key number: 98
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00198307998391263 , 0.00266199649357781 )
+Key number: 99
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00839515941504137 , -0.0593404126986381 )
+Key number: 100
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00319851002014694 , -0.0460514872112226 )
+Key number: 101
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0197932786972145 , 0.0353985653693723 )
+Key number: 102
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00469284836912192 , 0.0593964287208151 )
+Key number: 103
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000768430376653236 , -0.00161091331101545 )
+Key number: 104
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.000535798544459925 , 0.000340164554676196 )
+Key number: 105
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0154350591414988 , 0.0361591576866941 )
+Key number: 106
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0302194724600632 , -0.00192359731739646 )
+Key number: 107
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.150390565287778 , 0.203370714714147 )
+Key number: 108
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0151592171296935 , -0.0355616881909114 )
+Key number: 109
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000193430511122401 , -0.000144588746269797 )
+Key number: 110
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.12681932699139 , 0.171347255207397 )
+Key number: 111
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.029989824972655 , -0.00166464230664511 )
+Key number: 112
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 113
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 114
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 115
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 116
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 117
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 118
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 119
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 120
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 121
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 122
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 123
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 124
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 125
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 126
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 127
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 128
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0193917147697424 , -0.0624639583682152 )
+Key number: 129
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0609826018794209 , -0.151757710276843 )
+Key number: 130
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00149337715342394 , -0.000667105626529602 )
+Key number: 131
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0300143182988299 , 0.0136898978431207 )
+Key number: 132
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0317604631973148 , -0.318706489657669 )
+Key number: 133
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0174573877027644 , -0.0620020286292934 )
+Key number: 134
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0294504081129985 , -0.012110760148829 )
+Key number: 135
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00171132750365056 , 0.000820093051083661 )
+Key number: 136
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00107068651326771 , -0.000812500151165976 )
+Key number: 137
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0167538371440763 , 0.0116587853638353 )
+Key number: 138
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0444609980865789 , 0.0796580391615488 )
+Key number: 139
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.144268638458188 , 0.244608862983493 )
+Key number: 140
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0173521845839148 , -0.0105559393525756 )
+Key number: 141
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000252776897707198 , 0.000363583519846458 )
+Key number: 142
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.120600542762824 , 0.229148825884758 )
+Key number: 143
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0449956184192862 , 0.0794998207912809 )
+Key number: 144
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 145
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 146
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 147
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 148
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 149
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 150
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 151
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 152
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 153
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 154
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 155
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 156
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 157
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 158
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 159
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 160
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00025728636825386 , -0.000471866737624785 )
+Key number: 161
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0427259917078973 , 0.00530755599612472 )
+Key number: 162
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0279406488903543 , -0.001540304791322 )
+Key number: 163
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.172052279257797 , 0.0250243604998894 )
+Key number: 164
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0434659615867682 , -0.00690308748982009 )
+Key number: 165
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 8.04956238854835e-05 , 0.000371364810003777 )
+Key number: 166
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.133906857552519 , 0.0317323860038639 )
+Key number: 167
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0285322911234669 , -0.00251819754787817 )
+Key number: 168
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00601690410995826 , -0.0533273519320496 )
+Key number: 169
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.288648216938994 , -0.0689026056145176 )
+Key number: 170
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.000782103836260304 , 0.000785340806335475 )
+Key number: 171
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.018998026240579 , 0.00280454342685412 )
+Key number: 172
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.239252233924997 , -0.0582410275311227 )
+Key number: 173
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00618649901751623 , -0.054162367538481 )
+Key number: 174
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0205933385030662 , -0.00377067686395659 )
+Key number: 175
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000732811452164296 , -0.00112829626535497 )
+Key number: 176
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 177
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 178
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 179
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 180
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 181
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 182
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 183
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 184
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 185
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 186
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 187
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 188
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 189
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 190
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 191
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 192
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00108852469336388 , -0.000412620878531677 )
+Key number: 193
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0332582662057236 , 0.0154904030020456 )
+Key number: 194
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0127965556081811 , 0.124823694647493 )
+Key number: 195
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0717758539524312 , 0.214363978452942 )
+Key number: 196
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0325050529867622 , -0.0145373201113543 )
+Key number: 197
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00168308275459922 , -0.000375773864864537 )
+Key number: 198
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.126974321703821 , 0.148244893863896 )
+Key number: 199
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0118766630235043 , 0.124583992187329 )
+Key number: 200
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.052140296460421 , -0.0428543514752035 )
+Key number: 201
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.061535938414663 , -0.170626950939397 )
+Key number: 202
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00112470304362763 , -0.000128515949040656 )
+Key number: 203
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00378481770076758 , -0.0247938355038812 )
+Key number: 204
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0434327835028849 , -0.223750708858726 )
+Key number: 205
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.051489833829801 , -0.0435057756723177 )
+Key number: 206
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00331654034644283 , 0.0248461419926302 )
+Key number: 207
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00135600802420228 , -0.000437667773819982 )
+Key number: 208
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 209
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 210
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 211
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 212
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 213
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 214
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 215
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 216
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 217
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 218
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 219
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 220
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 221
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 222
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 223
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 224
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0455220944896314 , 0.00857660361557888 )
+Key number: 225
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0749515406124997 , 0.115685781053165 )
+Key number: 226
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000717104882834247 , 0.00122651164767022 )
+Key number: 227
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0145621358724536 , -0.0115075277746586 )
+Key number: 228
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0845799919834286 , 0.0732939058427695 )
+Key number: 229
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0447141159719866 , 0.00768766000044153 )
+Key number: 230
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0162531683866086 , 0.0113473790307819 )
+Key number: 231
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000739548949213047 , -0.000741899061218181 )
+Key number: 232
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000177159579936406 , -0.00140244886219528 )
+Key number: 233
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00682570645918454 , -0.00289492290109208 )
+Key number: 234
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0901553392700379 , 0.0129572450164188 )
+Key number: 235
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.158106953185109 , -0.209104091431428 )
+Key number: 236
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00669504464812648 , 0.00407139709553428 )
+Key number: 237
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000602820854485114 , 0.000929723426671474 )
+Key number: 238
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.14862750577828 , -0.22888850170455 )
+Key number: 239
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.087472235051354 , 0.0141325491394257 )
+Key number: 240
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 241
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 242
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 243
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 244
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 245
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 246
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 247
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 248
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 249
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 250
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 251
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 252
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 253
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 254
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 255
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 256
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000627860905018337 , -8.56402436121076e-05 )
+Key number: 257
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0165967857489654 , 0.0181472846013563 )
+Key number: 258
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00345643999054017 , -0.0350419541231309 )
+Key number: 259
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0222884519683766 , 0.276070541844168 )
+Key number: 260
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0173130471570539 , -0.0195269283975999 )
+Key number: 261
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00118723105072561 , 0.000466000306756422 )
+Key number: 262
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0271861291440769 , 0.234994518863751 )
+Key number: 263
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00168686672148529 , -0.0350855933811354 )
+Key number: 264
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0161240447253929 , -0.0367041237664217 )
+Key number: 265
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0178895334674876 , -0.160443768241295 )
+Key number: 266
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000703969489206961 , 0.000104317667759018 )
+Key number: 267
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0329357660610308 , 0.0181779250818186 )
+Key number: 268
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00573771540266749 , -0.146612969065771 )
+Key number: 269
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0158952120859461 , -0.0378523006787174 )
+Key number: 270
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0317537122409056 , -0.0189985218593111 )
+Key number: 271
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000640535321860995 , -0.000450298231871151 )
+Key number: 272
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 273
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 274
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 275
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 276
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 277
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 278
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 279
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 280
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 281
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 282
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 283
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 284
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 285
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 286
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 287
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 288
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0132609576328214 , -0.0455546405997345 )
+Key number: 289
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.103096083175395 , -0.0219257352702214 )
+Key number: 290
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.000219950800787578 , 0.00117851073977968 )
+Key number: 291
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0238821329610793 , 0.0319898792192657 )
+Key number: 292
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.082937678688328 , -0.0300193874853913 )
+Key number: 293
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0126506609166737 , -0.0453437866549204 )
+Key number: 294
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.024081462759638 , -0.0292003314756075 )
+Key number: 295
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 4.46488389435194e-05 , -0.00176237469710782 )
+Key number: 296
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.000451342948793804 , -0.000364934134735794 )
+Key number: 297
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0368525974602012 , 0.0254804038577264 )
+Key number: 298
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.146028586856221 , 0.0693541153315441 )
+Key number: 299
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.150448572016658 , -0.0725393417132749 )
+Key number: 300
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0359791732386174 , -0.0247851382126443 )
+Key number: 301
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000376461417563559 , 0.000200296659046853 )
+Key number: 302
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.190174016220644 , -0.147846992559032 )
+Key number: 303
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.141996221700118 , 0.0684660283031078 )
+Key number: 304
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 305
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 306
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 307
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 308
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 309
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 310
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 311
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 312
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 313
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 314
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 315
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 316
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 317
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 318
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 319
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 320
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0353013152374532 , -0.0565405196188081 )
+Key number: 321
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.195289569711156 , -0.0534498077105076 )
+Key number: 322
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00100872878835608 , 0.00105093292827084 )
+Key number: 323
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0285742602096779 , 0.0167904619062693 )
+Key number: 324
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.202900067081721 , -0.025598035451543 )
+Key number: 325
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0349574671566842 , -0.0547461527608694 )
+Key number: 326
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0250270346273185 , -0.0166366653027253 )
+Key number: 327
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00111507443166845 , -0.000815186957197972 )
+Key number: 328
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00106410491424896 , 0.000260262457173373 )
+Key number: 329
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0087494954062714 , -0.0135529617434308 )
+Key number: 330
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00111042714497307 , -0.0144047824099301 )
+Key number: 331
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.251106957740102 , 0.121792347887077 )
+Key number: 332
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00823332319365799 , 0.0145094716194906 )
+Key number: 333
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000712142992364341 , -5.67647912666358e-06 )
+Key number: 334
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.254871876519971 , 0.109127690484567 )
+Key number: 335
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00243649902592569 , -0.0153054738669754 )
+Key number: 336
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 337
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 338
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 339
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 340
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 341
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 342
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 343
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 344
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 345
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 346
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 347
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 348
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 349
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 350
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 351
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 352
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000250922114514539 , 0.000125335491654656 )
+Key number: 353
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0489678369459421 , -0.0267364072284202 )
+Key number: 354
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0108705489445569 , -0.0466028586204142 )
+Key number: 355
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0444401975618142 , -0.0761680113042034 )
+Key number: 356
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0490759945585872 , 0.027097810020515 )
+Key number: 357
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00038026218302332 , -0.000519087938323394 )
+Key number: 358
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0876766018599161 , -0.105958589846885 )
+Key number: 359
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0101309190864489 , -0.048001803011879 )
+Key number: 360
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0890832833404074 , -0.0763181702716072 )
+Key number: 361
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.311887708760921 , 0.189017053255988 )
+Key number: 362
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 7.95728531342806e-05 , -0.00123066060963039 )
+Key number: 363
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0473831134042753 , 0.040714033272179 )
+Key number: 364
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.255104365762964 , 0.193282885316073 )
+Key number: 365
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0883565809591304 , -0.0781095649802232 )
+Key number: 366
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0477333530707124 , -0.0420682370332305 )
+Key number: 367
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000184073418304182 , 0.0012142719573213 )
+Key number: 368
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 369
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 370
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 371
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 372
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 373
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 374
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 375
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 376
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 377
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 378
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 379
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 380
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 381
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 382
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 383
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 384
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00107404679608407 , 0.000518496684630972 )
+Key number: 385
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00249827860049209 , 0.0147201347402667 )
+Key number: 386
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0155251985831188 , -0.0367714824860414 )
+Key number: 387
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.148157145713209 , 0.00113901325343084 )
+Key number: 388
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00450251149897466 , -0.015977217742271 )
+Key number: 389
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00113231273643365 , -0.00011933934130036 )
+Key number: 390
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.155578404193557 , 0.0552913062246662 )
+Key number: 391
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0147138382952598 , -0.0375506063631169 )
+Key number: 392
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0411652979909479 , -0.00219009172963488 )
+Key number: 393
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0907680147286397 , 0.259559549494363 )
+Key number: 394
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000902521375783848 , 0.000448104522187899 )
+Key number: 395
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0176031261619215 , -0.055531128825712 )
+Key number: 396
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.076386980597179 , 0.191426898994939 )
+Key number: 397
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0420816675293853 , -0.00378908342684273 )
+Key number: 398
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0161921764347239 , 0.0546327297601131 )
+Key number: 399
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000188062151874447 , -0.000493929642101272 )
+Key number: 400
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 401
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 402
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 403
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 404
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 405
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 406
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 407
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 408
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 409
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 410
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 411
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 412
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 413
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 414
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 415
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 416
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0163767515229259 , -0.0307937744736949 )
+Key number: 417
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.178762338862937 , -0.164069864510438 )
+Key number: 418
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00204719432217461 , 0.00166875764615502 )
+Key number: 419
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0459442101547204 , -0.0552984237707956 )
+Key number: 420
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.17460901670168 , -0.0691754958684627 )
+Key number: 421
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0127559702862307 , -0.029527936085978 )
+Key number: 422
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0441925656204471 , 0.0541358263357202 )
+Key number: 423
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00173708906813894 , -0.000337395889931234 )
+Key number: 424
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.000184712319807585 , -0.000198734129859145 )
+Key number: 425
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0404753737796047 , 0.0523479855453786 )
+Key number: 426
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0304004839636741 , -0.0453846692505869 )
+Key number: 427
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.180847986393978 , -0.164777474338422 )
+Key number: 428
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0388313070143395 , -0.0501538183311129 )
+Key number: 429
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 7.82370020146319e-05 , -0.000254405936136547 )
+Key number: 430
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.17690588437247 , -0.0700235708483104 )
+Key number: 431
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0309072707215792 , -0.0436979301876497 )
+Key number: 432
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 433
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 434
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 435
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 436
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 437
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 438
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 439
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 440
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 441
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 442
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 443
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 444
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 445
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 446
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 447
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 448
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00195512561228749 , 0.0214164348789459 )
+Key number: 449
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0828273584549009 , -0.0797225453488917 )
+Key number: 450
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.000792841065812127 , -0.00100333534556314 )
+Key number: 451
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00906878962819561 , -0.0397017284883034 )
+Key number: 452
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.058365517744096 , -0.0062082775893205 )
+Key number: 453
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00118883544105728 , 0.0218884669024421 )
+Key number: 454
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00925596959861737 , 0.038357674453705 )
+Key number: 455
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000567106406080084 , 0.00107990255068741 )
+Key number: 456
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00253487112074087 , -0.000413401479106855 )
+Key number: 457
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0285033074025966 , 0.022744708988182 )
+Key number: 458
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0237512614372731 , 0.124940163185884 )
+Key number: 459
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0755171810321368 , -0.0753656369096609 )
+Key number: 460
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0305851678766887 , -0.0239099344869772 )
+Key number: 461
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00270996922938719 , 0.000492550066686443 )
+Key number: 462
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.16354714772143 , -0.0782755232906445 )
+Key number: 463
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0232746344179948 , 0.124271400121831 )
+Key number: 464
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 465
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 466
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 467
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 468
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 469
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 470
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 471
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 472
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 473
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 474
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 475
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 476
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 477
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 478
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 479
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 480
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00275389673659196 , 0.00164787706062119 )
+Key number: 481
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0962923738930136 , -0.0971124905187497 )
+Key number: 482
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0588971304840798 , -0.0640871880136004 )
+Key number: 483
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0116344109929482 , 0.0504944049019814 )
+Key number: 484
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0968300149169755 , 0.0981030203412853 )
+Key number: 485
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00203354721108135 , -0.000769159385977459 )
+Key number: 486
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0404946881012977 , -0.114625302867277 )
+Key number: 487
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0576916539105154 , -0.0625690345558156 )
+Key number: 488
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0568921372192501 , 0.0628706061754062 )
+Key number: 489
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.127748436325059 , 0.0457280271280403 )
+Key number: 490
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00108784996678377 , -0.000380959423909506 )
+Key number: 491
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0543014084301021 , 0.0491593694508658 )
+Key number: 492
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0407403488519162 , 0.138833139767772 )
+Key number: 493
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.058102548706659 , 0.064304918119253 )
+Key number: 494
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.051391914537775 , -0.0477623328354899 )
+Key number: 495
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000703370051278792 , 8.02210917790579e-05 )
+Key number: 496
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 497
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 498
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 499
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 500
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 501
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 502
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 503
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 504
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 505
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 506
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 507
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 508
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 509
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 510
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 511
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 512
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.726903427201136 , -7.57078048255894e-17 )
+Key number: 513
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.213611624369574 , -0.036054514133446 )
+Key number: 514
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.000566710530413916 , -0.000952966196802601 )
+Key number: 515
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0424091178096193 , -0.0488763802353694 )
+Key number: 516
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.202759147436035 , 0.0615969782900612 )
+Key number: 517
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.726993729185917 , 2.44047132762909e-17 )
+Key number: 518
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0418486407628923 , 0.0465897079004393 )
+Key number: 519
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00256804521375778 , -0.000757996786850949 )
+Key number: 520
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0015546964774907 , -0.00150337181891972 )
+Key number: 521
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0418486405293272 , 0.0465897068279459 )
+Key number: 522
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.742849972454515 , -5.53688496961191e-17 )
+Key number: 523
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.137490903747937 , -0.0773406046894027 )
+Key number: 524
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.042409119256163 , -0.0488763794970159 )
+Key number: 525
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00194484990847126 , 0.000808626532838457 )
+Key number: 526
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.141499322805067 , 0.0179671576535649 )
+Key number: 527
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.739425891147781 , 8.58146019522277e-17 )
+Key number: 528
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 529
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 530
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 531
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 532
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 533
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 534
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 535
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 536
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 537
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 538
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 539
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 540
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 541
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 542
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 543
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 544
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00751442381429115 , 0.0313389074774019 )
+Key number: 545
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.039912541044113 , -0.0399550279523807 )
+Key number: 546
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00156512619669973 , 0.000745577318048832 )
+Key number: 547
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0685867197853552 , 0.0978597595173263 )
+Key number: 548
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0498799424973664 , -0.0836099042441959 )
+Key number: 549
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00465961202251943 , 0.0296543965116445 )
+Key number: 550
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0679141098189423 , -0.0989809031466282 )
+Key number: 551
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000324912633729595 , -3.82073451077314e-05 )
+Key number: 552
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00225157202010178 , -0.000750690764613449 )
+Key number: 553
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0190230736679082 , 0.00333171316796621 )
+Key number: 554
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0753454768444093 , -0.0361192762646706 )
+Key number: 555
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00963774631149333 , -0.194388018057634 )
+Key number: 556
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0194847454200623 , -0.00244050949368812 )
+Key number: 557
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00210605183179006 , 4.67638131203304e-05 )
+Key number: 558
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.01809204985596 , -0.164812013904267 )
+Key number: 559
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0740316676884726 , -0.0356428530266447 )
+Key number: 560
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 561
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 562
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 563
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 564
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 565
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 566
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 567
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 568
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 569
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 570
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 571
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 572
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 573
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 574
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 575
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 576
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 4.7571289846343e-05 , 0.00135659512755664 )
+Key number: 577
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.109661741040896 , -0.0564621333149261 )
+Key number: 578
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0992742270954104 , -0.00327844946936323 )
+Key number: 579
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0977291654347924 , -0.0453990320302226 )
+Key number: 580
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.110105343454194 , 0.056877626521742 )
+Key number: 581
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 7.6812837920572e-05 , -0.00062037256803728 )
+Key number: 582
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0977291642326833 , -0.0453990289003032 )
+Key number: 583
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0993426542539568 , -0.00118711738212771 )
+Key number: 584
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0934948291683877 , 0.0119397045217938 )
+Key number: 585
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0524325798424247 , -0.0349165028099714 )
+Key number: 586
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 4.75728880051542e-05 , -0.00135659557427613 )
+Key number: 587
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00437332396081469 , -0.0893842373083447 )
+Key number: 588
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0524325790575476 , -0.0349165041835828 )
+Key number: 589
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0934174657705557 , 0.012860104461634 )
+Key number: 590
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00196397105815829 , 0.0869653173189483 )
+Key number: 591
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 7.68150110043565e-05 , 0.000620371894107664 )
+Key number: 592
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 593
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 594
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 595
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 596
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.206473641823511 , 0.32502988124077 )
+Key number: 597
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.26860086384318 , -0.299296496615739 )
+Key number: 598
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 599
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 600
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 601
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 602
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 603
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 604
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 605
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 606
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0236710753706817 , -0.212038077241095 )
+Key number: 607
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.124095012568114 , 0.331932350771092 )
+Key number: 608
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.000775152060820122 , 0.000167115068153323 )
+Key number: 609
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0605328715695652 , -0.00429762813138384 )
+Key number: 610
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0201327632014739 , 0.0354981433865772 )
+Key number: 611
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00225172092958903 , -0.0474625857031293 )
+Key number: 612
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0636028171766511 , 0.00603107395117279 )
+Key number: 613
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -9.69190948178273e-06 , -0.000176966053399283 )
+Key number: 614
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0407822310485393 , -0.061297810868249 )
+Key number: 615
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0201067150696505 , 0.0341619494725747 )
+Key number: 616
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0298700233160633 , -0.00150086882910639 )
+Key number: 617
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.125228698816449 , 0.170899951090836 )
+Key number: 618
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000115267021331852 , -0.00033831323957226 )
+Key number: 619
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0300874400952702 , 0.0137148299333286 )
+Key number: 620
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.148763927619172 , 0.202906386415022 )
+Key number: 621
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0301944827322195 , -0.00179557970537889 )
+Key number: 622
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.029063702148023 , -0.0152059225523036 )
+Key number: 623
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 4.55573027243926e-05 , -0.000188796481940344 )
+Key number: 624
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 625
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 626
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 627
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 628
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 629
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 630
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 631
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 632
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 633
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 634
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 635
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 636
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 637
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 638
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 639
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 640
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00252137046549128 , -0.000282958694755902 )
+Key number: 641
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.020366592844943 , 0.0261979965213044 )
+Key number: 642
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0163574065480831 , -0.0614629875006159 )
+Key number: 643
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0318806104931089 , -0.319912044120037 )
+Key number: 644
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0205175726476205 , -0.0262129979454854 )
+Key number: 645
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00245413546769798 , 6.78324271446959e-06 )
+Key number: 646
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0609873290675359 , -0.153024805300272 )
+Key number: 647
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0182549719310869 , -0.0619454948351061 )
+Key number: 648
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0442684993148663 , 0.0797209633317301 )
+Key number: 649
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.120615762338261 , 0.228707601482032 )
+Key number: 650
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -5.5903722270222e-05 , 0.000599924561925199 )
+Key number: 651
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0118565803176944 , 0.0199643802230279 )
+Key number: 652
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.144312854236087 , 0.244031942938281 )
+Key number: 653
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0436881203341492 , 0.0798180505310498 )
+Key number: 654
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0115183567909159 , -0.0191005825781354 )
+Key number: 655
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00080949980411883 , -0.000374079722271482 )
+Key number: 656
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 657
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 658
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 659
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 660
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 661
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 662
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 663
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 664
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 665
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 666
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 667
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 668
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 669
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 670
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 671
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 672
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0288116886223197 , -0.00252118778169961 )
+Key number: 673
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.132407645313063 , 0.0336266346737835 )
+Key number: 674
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000713107173852047 , -0.00145228670998912 )
+Key number: 675
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00461963817665728 , -0.0424007399747596 )
+Key number: 676
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.170536345160475 , 0.0268274906414844 )
+Key number: 677
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0282313884133094 , -0.00155190021190021 )
+Key number: 678
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00453440869671345 , 0.0420739774608936 )
+Key number: 679
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00072827015589387 , 0.00129381335936124 )
+Key number: 680
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -4.1757830183812e-05 , -3.95333826757589e-05 )
+Key number: 681
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00512526058288134 , -0.0192786283958597 )
+Key number: 682
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00627721586276141 , -0.0542543145696497 )
+Key number: 683
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.239124924620862 , -0.0598547864235545 )
+Key number: 684
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00430471721380267 , 0.0182201156136666 )
+Key number: 685
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -9.94028429420428e-05 , -0.000212877652986798 )
+Key number: 686
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.288501894602377 , -0.0704036047429582 )
+Key number: 687
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00615842350816473 , -0.053390519191051 )
+Key number: 688
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 689
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 690
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 691
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 692
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0305272716721796 , -0.0394089666984229 )
+Key number: 693
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.198838541589641 , -0.175356472040611 )
+Key number: 694
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 695
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 696
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 697
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 698
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 699
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 700
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 701
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 702
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.119912428192687 , -0.208836407365061 )
+Key number: 703
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.350826280736986 , 0.132832046679162 )
+Key number: 704
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0101736723410818 , 0.124294745075268 )
+Key number: 705
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.129431408402724 , 0.147693062759824 )
+Key number: 706
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00325272054279011 , -0.00162544098148955 )
+Key number: 707
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0127363114935191 , -0.0313599693471865 )
+Key number: 708
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0742549919370134 , 0.213817581964962 )
+Key number: 709
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0111625129809597 , 0.124598188209613 )
+Key number: 710
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0139181629418715 , 0.0296343006181621 )
+Key number: 711
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00189927480415711 , 0.000580783554998998 )
+Key number: 712
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.000957678950990081 , 2.07795758164278e-05 )
+Key number: 713
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0221728720242397 , -0.00667936559317964 )
+Key number: 714
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0517760485958202 , -0.0436217292620193 )
+Key number: 715
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0445587604685645 , -0.223581949035179 )
+Key number: 716
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0242226674589021 , 0.00584560165450268 )
+Key number: 717
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000393127075128666 , -0.000228116142534684 )
+Key number: 718
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0626797922587079 , -0.17046730282985 )
+Key number: 719
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0523917947598406 , -0.0430353740964972 )
+Key number: 720
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 721
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 722
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 723
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 724
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 725
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 726
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.328972066011094 , -0.160555141489885 )
+Key number: 727
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.119709031214032 , 0.382430513395593 )
+Key number: 728
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 729
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 730
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 731
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 732
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.411857155018916 , 0.0722334683163941 )
+Key number: 733
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0268561975138666 , -0.183859137527551 )
+Key number: 734
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 735
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 736
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000307215166548398 , 0.000522014967843643 )
+Key number: 737
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0099772067085049 , -0.0146048243974189 )
+Key number: 738
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0446229182196151 , 0.00819079169629694 )
+Key number: 739
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.083179586869921 , 0.0742459494909958 )
+Key number: 740
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0103490003826404 , 0.0147830091498286 )
+Key number: 741
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000144173671505287 , -0.000277701842859484 )
+Key number: 742
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0735999623509049 , 0.116623367460011 )
+Key number: 743
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0454445445579472 , 0.00899202626409996 )
+Key number: 744
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0875690885748971 , 0.0137590876150903 )
+Key number: 745
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.147387803577083 , -0.228986700867644 )
+Key number: 746
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000676145438045071 , -0.00054907521669688 )
+Key number: 747
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00322040189676592 , -0.00668011422638142 )
+Key number: 748
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.156795577182554 , -0.209179343311289 )
+Key number: 749
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0901585533814679 , 0.0126322340140593 )
+Key number: 750
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00286818218557532 , 0.00745925279366244 )
+Key number: 751
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 8.25454272625414e-05 , 0.000318219160558067 )
+Key number: 752
+	t_slice     12
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 753
+	t_slice     14
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 754
+	t_slice     13
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 755
+	t_slice     15
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 756
+	t_slice     14
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 757
+	t_slice     12
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 758
+	t_slice     15
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 759
+	t_slice     13
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 760
+	t_slice     14
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 761
+	t_slice     12
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 762
+	t_slice     15
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 763
+	t_slice     13
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 764
+	t_slice     12
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 765
+	t_slice     14
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 766
+	t_slice     13
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 767
+	t_slice     15
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 768
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00160611281863561 , -0.0347669177065317 )
+Key number: 769
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0281984734792039 , 0.235457033572015 )
+Key number: 770
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.00014277860313937 , -0.00102750952845711 )
+Key number: 771
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0181637380777049 , -0.015936089422546 )
+Key number: 772
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0212053571739288 , 0.276529568545205 )
+Key number: 773
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00328934861097793 , -0.0347085812031442 )
+Key number: 774
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0201610731736315 , 0.0148773980676074 )
+Key number: 775
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000809674390715303 , 0.00078659602850644 )
+Key number: 776
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000346371156186772 , -0.000522150737057427 )
+Key number: 777
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0171480385445717 , -0.0313631031505947 )
+Key number: 778
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0159968458817338 , -0.0382746305490999 )
+Key number: 779
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00594050455512352 , -0.14644087182831 )
+Key number: 780
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0181477138144854 , 0.0309622013372187 )
+Key number: 781
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000737614150028603 , 0.000246856504149909 )
+Key number: 782
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0176760881905289 , -0.16012924076574 )
+Key number: 783
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0161041896139559 , -0.0371676602791144 )
+Key number: 784
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 785
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 786
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 787
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 788
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 789
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 790
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 791
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 792
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 793
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 794
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 795
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 796
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 797
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 798
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 799
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 800
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00106598805643975 , -0.00159386665982763 )
+Key number: 801
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0269194146615981 , 0.018905892756845 )
+Key number: 802
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0128499618443294 , -0.0454652861160009 )
+Key number: 803
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0839890506693704 , -0.0279440902129213 )
+Key number: 804
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0281129907625247 , -0.0214858367446725 )
+Key number: 805
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.00119172527183499 , 0.00137542106058031 )
+Key number: 806
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.104084154135783 , -0.0198328346954508 )
+Key number: 807
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0134789965831609 , -0.0456648141764057 )
+Key number: 808
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.141488913650062 , 0.0681890924426516 )
+Key number: 809
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.18813990325498 , -0.147994085364502 )
+Key number: 810
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -8.48181859480312e-05 , -0.00207050069766304 )
+Key number: 811
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0231231052967983 , 0.0409752294552856 )
+Key number: 812
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.148456514478043 , -0.0726748861566816 )
+Key number: 813
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.145393378229774 , 0.0690282026453499 )
+Key number: 814
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0232259403395019 , -0.0404572301129325 )
+Key number: 815
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.000499455622439587 , 0.00102702220273207 )
+Key number: 816
+	t_slice     15
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 817
+	t_slice     13
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 818
+	t_slice     14
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 819
+	t_slice     12
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 820
+	t_slice     13
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0539803752902486 , -0.0220832544941418 )
+Key number: 821
+	t_slice     15
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0915492160335314 , 0.0418915498371907 )
+Key number: 822
+	t_slice     12
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 823
+	t_slice     14
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 824
+	t_slice     13
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 825
+	t_slice     15
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 826
+	t_slice     12
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 827
+	t_slice     14
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 828
+	t_slice     15
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 829
+	t_slice     13
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 830
+	t_slice     14
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0626469508392186 , 0.319840160988072 )
+Key number: 831
+	t_slice     12
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.130446187357034 , -0.338530466349116 )
+Key number: 832
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 2.18130915828143e-05 , 0.000479903236394697 )
+Key number: 833
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0187907595742408 , 0.0283506069518738 )
+Key number: 834
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0351835009496021 , -0.0544584004558007 )
+Key number: 835
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.203856475186737 , -0.0245839804161349 )
+Key number: 836
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0193623361815804 , -0.0296172173198825 )
+Key number: 837
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000112504601031565 , -0.000281726186236781 )
+Key number: 838
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.196130427953447 , -0.0524869594964726 )
+Key number: 839
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0355229020226761 , -0.056336730646943 )
+Key number: 840
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00240855875213397 , -0.0155724711376745 )
+Key number: 841
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.254766554761823 , 0.108639035231498 )
+Key number: 842
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000138739751197884 , -0.00236939502644877 )
+Key number: 843
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0122896724222233 , -0.00890266266274805 )
+Key number: 844
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.250926965852025 , 0.121241289719143 )
+Key number: 845
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.00103081490537952 , -0.0146243480247634 )
+Key number: 846
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0127182586762875 , 0.00815306220137997 )
+Key number: 847
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 4.12318052844071e-05 , 0.00227138039460623 )
+Key number: 848
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 849
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 850
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 851
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 852
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.102177109379006 , -0.117946815111769 )
+Key number: 853
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.150200580732798 , 0.0736934594147701 )
+Key number: 854
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 855
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 856
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 857
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 858
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 859
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 860
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 861
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 862
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.130957078166887 , -0.0707969635557607 )
+Key number: 863
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0664970091341057 , 0.279429238069687 )
+Key number: 864
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0102414681411934 , -0.0477056263663229 )
+Key number: 865
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0873192134602069 , -0.105844844446262 )
+Key number: 866
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00167204082144674 , 0.000123588042366113 )
+Key number: 867
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0275656253825252 , -0.0501729536488085 )
+Key number: 868
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.043958254744607 , -0.0759624512135297 )
+Key number: 869
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0108772667115006 , -0.0463052846898189 )
+Key number: 870
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0274431999575774 , 0.0500379403339199 )
+Key number: 871
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00142986802365382 , -0.000284909352371841 )
+Key number: 872
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00103974193501807 , -0.000206144556584153 )
+Key number: 873
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0410124627263117 , -0.0463434190186189 )
+Key number: 874
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0881409197263586 , -0.0779026889910543 )
+Key number: 875
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.254597645044 , 0.194602033535355 )
+Key number: 876
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0410113252994048 , 0.0455437830008381 )
+Key number: 877
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.000579651212158262 , 0.00051001271984666 )
+Key number: 878
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.311098463968311 , 0.19025846846703 )
+Key number: 879
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0888452962729016 , -0.0760424991471854 )
+Key number: 880
+	t_slice     9
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 881
+	t_slice     11
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 882
+	t_slice     8
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 883
+	t_slice     10
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 884
+	t_slice     11
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 885
+	t_slice     9
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 886
+	t_slice     10
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 887
+	t_slice     8
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 888
+	t_slice     11
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 889
+	t_slice     9
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 890
+	t_slice     10
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 891
+	t_slice     8
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 892
+	t_slice     9
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 893
+	t_slice     11
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 894
+	t_slice     8
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 895
+	t_slice     10
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 896
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0148234243262718 , -0.0370526208259846 )
+Key number: 897
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.153268916530779 , 0.05593439046114 )
+Key number: 898
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.00190348116276685 , -0.000680803170321208 )
+Key number: 899
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0180973791988196 , -0.00919102766306836 )
+Key number: 900
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.145700311621673 , 0.00174948309421348 )
+Key number: 901
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0155559714153194 , -0.0362466701874435 )
+Key number: 902
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.013793149118999 , 0.00814133193563884 )
+Key number: 903
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.00163651305035022 , 0.000407022341011895 )
+Key number: 904
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.00141809455775585 , -0.000300767026348784 )
+Key number: 905
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0566115682159602 , -0.0212489556134256 )
+Key number: 906
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0414171456093809 , -0.00406259660418896 )
+Key number: 907
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0768383757758852 , 0.192462181571488 )
+Key number: 908
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0556529291798089 , 0.0246767970639745 )
+Key number: 909
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0012586750515272 , 0.000670348180920904 )
+Key number: 910
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0910526136407193 , 0.260601152187958 )
+Key number: 911
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0405672408214739 , -0.00240075589358834 )
+Key number: 912
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 913
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 914
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 915
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 916
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 917
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 918
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 919
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 920
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 921
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 922
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 923
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 924
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 925
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 926
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 927
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 928
+	t_slice     0
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00204719391689908 , -0.00166875730672056 )
+Key number: 929
+	t_slice     2
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.058168299234263 , -0.0431715852467714 )
+Key number: 930
+	t_slice     1
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0111179862884077 , -0.0291256689300566 )
+Key number: 931
+	t_slice     3
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.176905885776664 , -0.0700235721692187 )
+Key number: 932
+	t_slice     2
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.05606854537255 , 0.046186278006426 )
+Key number: 933
+	t_slice     0
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.00173708935221173 , 0.000337396710444811 )
+Key number: 934
+	t_slice     3
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.180847986326753 , -0.164777473084722 )
+Key number: 935
+	t_slice     1
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0147761036800425 , -0.0302554326205035 )
+Key number: 936
+	t_slice     2
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0297233120416842 , -0.0440891369518534 )
+Key number: 937
+	t_slice     0
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.174609015712579 , -0.069175496124127 )
+Key number: 938
+	t_slice     3
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.000184710689000807 , 0.000198734101962594 )
+Key number: 939
+	t_slice     1
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0466870936792497 , 0.0400049007057238 )
+Key number: 940
+	t_slice     0
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.178762338577715 , -0.16406986470941 )
+Key number: 941
+	t_slice     2
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0292768080824324 , -0.0458070612945373 )
+Key number: 942
+	t_slice     1
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0474056961583919 , -0.042078322884042 )
+Key number: 943
+	t_slice     3
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 7.82373035764349e-05 , 0.00025440577947009 )
+Key number: 944
+	t_slice     10
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 945
+	t_slice     8
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 946
+	t_slice     11
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 947
+	t_slice     9
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 948
+	t_slice     8
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 949
+	t_slice     10
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 950
+	t_slice     9
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.0955911840686693 , 0.152946010258829 )
+Key number: 951
+	t_slice     11
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.217721090345709 , 0.102343565018443 )
+Key number: 952
+	t_slice     8
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 953
+	t_slice     10
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 954
+	t_slice     9
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 955
+	t_slice     11
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 956
+	t_slice     10
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.18794017254726 , -0.418236304284001 )
+Key number: 957
+	t_slice     8
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.399832540944597 , -0.0295161464784386 )
+Key number: 958
+	t_slice     11
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 959
+	t_slice     9
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 960
+	t_slice     7
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000740026021497777 , 0.000122633380736149 )
+Key number: 961
+	t_slice     5
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0377065603919557 , 0.0090149323629346 )
+Key number: 962
+	t_slice     6
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.00155003721904974 , 0.0215949407840611 )
+Key number: 963
+	t_slice     4
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0585673967406091 , -0.00606153964077867 )
+Key number: 964
+	t_slice     5
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( 0.0384029563041424 , -0.00858066841414653 )
+Key number: 965
+	t_slice     7
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000475023380906515 , -0.000147158197472105 )
+Key number: 966
+	t_slice     4
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0829045109019646 , -0.0794076012527367 )
+Key number: 967
+	t_slice     6
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0016501873644302 , 0.0210390353431067 )
+Key number: 968
+	t_slice     5
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.022992357216878 , 0.124072801563297 )
+Key number: 969
+	t_slice     7
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.164142637888538 , -0.0776246265796745 )
+Key number: 970
+	t_slice     4
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000145885889741799 , 0.00124140784039285 )
+Key number: 971
+	t_slice     6
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0254794249853204 , -0.0288608551266021 )
+Key number: 972
+	t_slice     7
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0759877746581089 , -0.0743884913689611 )
+Key number: 973
+	t_slice     5
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.0234584147022814 , 0.124735398161034 )
+Key number: 974
+	t_slice     6
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0235917999517646 , 0.0289071967414978 )
+Key number: 975
+	t_slice     4
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000339321618176427 , -0.000718331549585951 )
+Key number: 976
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 977
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 978
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 979
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 980
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 981
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 982
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -1.90485888163627e-19 )
+Key number: 983
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.276584866611678 , 0.00693441297884574 )
+Key number: 984
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 985
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 986
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 987
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 988
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0.5 , -4.4642009367456e-19 )
+Key number: 989
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.0197962196483501 , 0.0858572453335483 )
+Key number: 990
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 991
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 992
+	t_slice     3
+	t_source    0
+	spin_src   0
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0568921371280368 , -0.0628706057795605 )
+Key number: 993
+	t_slice     1
+	t_source    0
+	spin_src   0
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0399186137730398 , -0.114967401652105 )
+Key number: 994
+	t_slice     2
+	t_source    0
+	spin_src   1
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.000523954864372683 , -0.000841642364612262 )
+Key number: 995
+	t_slice     0
+	t_source    0
+	spin_src   1
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.096830013874506 , 0.098103020128447 )
+Key number: 996
+	t_slice     1
+	t_source    0
+	spin_src   2
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( 0.0124711824864031 , 0.050029030913135 )
+Key number: 997
+	t_slice     3
+	t_source    0
+	spin_src   2
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( -0.0581025483455361 , -0.064304918887301 )
+Key number: 998
+	t_slice     0
+	t_source    0
+	spin_src   3
+	spin_snk   0
+	mass_label U0.05
+	elem 0 0 ( -0.0962923725913423 , -0.0971124898054916 )
+Key number: 999
+	t_slice     2
+	t_source    0
+	spin_src   3
+	spin_snk   2
+	mass_label U0.05
+	elem 0 0 ( 0.000287090522685112 , -0.000726712395320638 )
+Key number: 1000
+	t_slice     1
+	t_source    3
+	spin_src   0
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.000584514576836871 , 0.00116322636807694 )
+Key number: 1001
+	t_slice     3
+	t_source    3
+	spin_src   0
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.0513919153688497 , -0.0477623301777313 )
+Key number: 1002
+	t_slice     0
+	t_source    3
+	spin_src   1
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.0588971306603026 , 0.06408718765543 )
+Key number: 1003
+	t_slice     2
+	t_source    3
+	spin_src   1
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.042588328864662 , 0.13831071972473 )
+Key number: 1004
+	t_slice     3
+	t_source    3
+	spin_src   2
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.054301408567092 , 0.0491593696494657 )
+Key number: 1005
+	t_slice     1
+	t_source    3
+	spin_src   2
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( 0.000789922274516258 , -0.0015448146541896 )
+Key number: 1006
+	t_slice     2
+	t_source    3
+	spin_src   3
+	spin_snk   1
+	mass_label U0.05
+	elem 0 0 ( -0.129731517192052 , 0.0450628408129888 )
+Key number: 1007
+	t_slice     0
+	t_source    3
+	spin_src   3
+	spin_snk   3
+	mass_label U0.05
+	elem 0 0 ( -0.0576916546127031 , 0.0625690349392765 )
+Key number: 1008
+	t_slice     4
+	t_source    0
+	spin_src   0
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1009
+	t_slice     6
+	t_source    0
+	spin_src   0
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1010
+	t_slice     5
+	t_source    0
+	spin_src   1
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 1011
+	t_slice     7
+	t_source    0
+	spin_src   1
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 1012
+	t_slice     6
+	t_source    0
+	spin_src   2
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1013
+	t_slice     4
+	t_source    0
+	spin_src   2
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1014
+	t_slice     7
+	t_source    0
+	spin_src   3
+	spin_snk   1
+	mass_label STATIC
+	elem 0 0 ( -0.12818158428206 , -0.174688492782354 )
+Key number: 1015
+	t_slice     5
+	t_source    0
+	spin_src   3
+	spin_snk   3
+	mass_label STATIC
+	elem 0 0 ( -0.0932001193297842 , -0.161544217604433 )
+Key number: 1016
+	t_slice     6
+	t_source    3
+	spin_src   0
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 1017
+	t_slice     4
+	t_source    3
+	spin_src   0
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 1018
+	t_slice     7
+	t_source    3
+	spin_src   1
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1019
+	t_slice     5
+	t_source    3
+	spin_src   1
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1020
+	t_slice     4
+	t_source    3
+	spin_src   2
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( -0.168792562629605 , -0.15384810124708 )
+Key number: 1021
+	t_slice     6
+	t_source    3
+	spin_src   2
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( -0.417443634385757 , 0.230559263714551 )
+Key number: 1022
+	t_slice     5
+	t_source    3
+	spin_src   3
+	spin_snk   0
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+Key number: 1023
+	t_slice     7
+	t_source    3
+	spin_src   3
+	spin_snk   2
+	mass_label STATIC
+	elem 0 0 ( 0 , 0 )
+1024
