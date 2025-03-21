@@ -12,7 +12,7 @@ module load OpenMPI/4.1.5
 module load MPI-settings/CUDA
 module load UCX-settings/RC-CUDA
 ```
-Note: Always set the following for the meson elemental conversion ``SB:Local'' needs to be set 
+Note: Always set the following for the meson elemental conversion ``SB::OnMaster'' needs to be set 
 ```
 //! Meson operator, colorstd::vector source and sink with momentum projection
     struct ValMesonElementalOperator_t : public SB::Tensor<2, SB::ComplexD> {
